@@ -1,6 +1,7 @@
 # 🎥 Animasyon Projesi
 
-Bu proje Adobe After Effects kullanılarak hazırlanmış bir reklam animasyonudur.
+Bu proje Adobe After Effects kullanılarak hazırlanmış bir reklam animasyonudur. 
+Storyboard tasarımı ve animasyon süreci tarafımdan gerçekleştirilmiştir.
 
 ## 🎬 Önizleme
 
